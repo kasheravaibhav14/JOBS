@@ -1,4 +1,6 @@
-# Assignment 1
+# JOBS
+A Mern Stack Web Application to connect recruiters with job applicants with multiple
+features to the need of both a recruiter and an applicant.
 
 ## Installations
 
